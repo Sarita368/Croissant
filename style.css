@@ -23,3 +23,7 @@ a {
 p {
     color: brown;
 }
+.email-link {
+    text-decoration: underline;
+
+}
